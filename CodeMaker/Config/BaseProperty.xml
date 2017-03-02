@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<property>
+<add name="Project" type="string" category="Base" default="DMedia.ISS" description="项目名称"/> 
+<add name="Module" type="string" category="Base" default="Security" description="模块名称"/>
+<add name="ClassName" type="string" category="Base" default="User" description="类名变量"/>
+<add name="Author" type="string" category="Base" default="易建华" description="作者"/>
+<add name="Description" type="string" category="Base" default="用户" description="描述"/>
+</property>
